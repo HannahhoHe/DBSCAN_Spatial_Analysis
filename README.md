@@ -5,8 +5,8 @@ To use the scripts, structure your datasets into columns of sample ID (or patien
 
 ## Group cells by DBSCAN clustering
 - Cells comprising the clusters 
-  - Percent of cells found in the clusters
+- Percent of cells found in the clusters
   
-- Delaunay triangulation algorithm
+### Delaunay triangulation algorithm
   - Apply the algorithm 
   - Add and append the results 
