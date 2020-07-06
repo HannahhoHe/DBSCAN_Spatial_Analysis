@@ -10,3 +10,5 @@ To use the scripts, structure your datasets into columns of sample ID (or patien
 ### Delaunay triangulation algorithm
   - Apply the algorithm 
   - Add and append the results 
+  
+### Combining the results from DBSCAN clustering and Delaunay triangulation algorithm 
