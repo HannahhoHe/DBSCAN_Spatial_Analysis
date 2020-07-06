@@ -14,3 +14,4 @@ To use the scripts, structure your datasets into columns of sample ID (or patien
   - Add and append the results 
   
 ### Combining the results from DBSCAN clustering and Delaunay triangulation algorithm 
+### Manually register two images and assign cluster ID to the cells in the new image slide  
