@@ -1,1 +1,2 @@
-
+# Cluster Type
+In this project, two different types of cells are believed to cluster together in a 2D space. With this hypothesis, we only select such two types of cells to define DBSCAN clusters. The resultant clusters may be formed with only one type (homotypic clusters) or with both types (heterotypic clusters). This script was written to define whether the clusters are homoclusters (type of cells) or heteroclusters.     
