@@ -10,11 +10,9 @@ See [the script](https://github.com/HannahhoHe/Data-Wrangling-Multidimensional-I
 - [Counting how many clusters (and types of) in each specimen](https://github.com/HannahhoHe/Data-Wrangling-Multidimensional-Image-Data/blob/master/Cluster%20count.ipynb)
 - [Calculating the cluster size (and types of) in each specimen](https://github.com/HannahhoHe/Data-Wrangling-Multidimensional-Image-Data/blob/master/Cluster%20Size.ipynb). The cluster size is the total number of cells. 
 - [Portion (percent) of cells found in clusters](https://github.com/HannahhoHe/Data-Wrangling-Multidimensional-Image-Data/blob/master/Portion%20of%20cells%20found%20in%20the%20cluster.ipynb) 
-- Percent of cells found in the clusters
   
 ### Delaunay triangulation algorithm
-  - Apply the algorithm 
-  - Add and append the results 
+  - [Run the Delaunay algorithm, plot a representative figure](https://github.com/HannahhoHe/Data-Wrangling-Multidimensional-Image-Data/blob/master/Neighborhood%20(Delaunay).ipynb)
   
 ### Combining the results from DBSCAN clustering and Delaunay triangulation algorithm 
 ### Manually register two images and assign cluster ID to the cells in the new image slide  
