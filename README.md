@@ -15,4 +15,4 @@ See [the script](https://github.com/HannahhoHe/Data-Wrangling-Multidimensional-I
   - [Run the Delaunay algorithm, plot a representative figure](https://github.com/HannahhoHe/Data-Wrangling-Multidimensional-Image-Data/blob/master/Neighborhood%20(Delaunay).ipynb)
   
 ### Combine the outputs from DBSCAN cluster and Delaunay algorithm  
- - [This script](https://github.com/HannahhoHe/Data-Wrangling-Multidimensional-Image-Data/blob/master/Combine%20DBSCAN%20and%20Delaunay.ipynb)
+ - [This script](https://github.com/HannahhoHe/Data-Wrangling-Multidimensional-Image-Data/blob/master/Combine%20DBSCAN%20and%20Delaunay.ipynb) first merge the results from the Delaunay algorithm with that from the DBSCAN clustering, plot the graph showing the number of neighbors (of different type of cells) for cells in differnt type of DBSCAN cluster, perform the statistical analysis (p-value) testing the null hypothesis for cells having different number of cells (of different type of cells), plot the size of heterotypic cluster against the number of neighbors (of different type of cells) and perform linear regression based off it.         
