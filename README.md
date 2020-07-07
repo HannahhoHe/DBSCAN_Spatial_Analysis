@@ -14,5 +14,4 @@ See [the script](https://github.com/HannahhoHe/Data-Wrangling-Multidimensional-I
 ### Delaunay triangulation algorithm
   - [Run the Delaunay algorithm, plot a representative figure](https://github.com/HannahhoHe/Data-Wrangling-Multidimensional-Image-Data/blob/master/Neighborhood%20(Delaunay).ipynb)
   
-### Combining the results from DBSCAN clustering and Delaunay triangulation algorithm 
-### Manually register two images and assign cluster ID to the cells in the new image slide  
+### Combining the outputs from DBSCAN cluster and Delaunay algorithm  
