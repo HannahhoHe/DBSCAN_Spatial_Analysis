@@ -19,8 +19,6 @@ See [the script](https://github.com/HannahhoHe/Data-Wrangling-Multidimensional-I
 
 ### Changes in cell function 
 - Cells participating DBSCAN clustering
-
-Checkpoint-molecule Expression:
  - [Types of clusters](https://github.com/HannahhoHe/Data-Wrangling-Multidimensional-Image-Data/blob/master/Cells%20participating%20DBSCAN%20clustering.ipynb)
  - [Numbers of neighbors]()
  - [Size of clusters]()
