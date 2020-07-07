@@ -19,7 +19,7 @@ See [the script](https://github.com/HannahhoHe/Data-Wrangling-Multidimensional-I
 
 ### Changes in cell function 
 - Cells participating DBSCAN clustering
-  - [Types of clusters](https://github.com/HannahhoHe/Data-Wrangling-Multidimensional-Image-Data/blob/master/Cells%20participating%20DBSCAN%20clustering.ipynb)
-  - [Numbers of neighbors]()
-  - [Size of clusters]()
+  - [by Types of clusters](https://github.com/HannahhoHe/Data-Wrangling-Multidimensional-Image-Data/blob/master/Cells%20participating%20DBSCAN%20clustering.ipynb)
+  - [by Numbers of neighbors]()
+  - [by Size of clusters]()
 - Other cells within the clusters (also see registration for consecutive specimen sections)  
