@@ -6,7 +6,7 @@ To use the scripts, structure your datasets into columns of sample ID (or patien
 
 See [the script](https://github.com/HannahhoHe/Data-Wrangling-Multidimensional-Image-Data/tree/master/DataCleaning) for data cleaning prior running the following scripts.
 ### Analyze the DBSCAN clusters
-- Types of clusters, cells comprising the clusters 
+- [Types of clusters, cells comprising the clusters](https://github.com/HannahhoHe/Data-Wrangling-Multidimensional-Image-Data/tree/master/Types%20of%20clusters)
 - Percent of cells found in the clusters
   
 ### Delaunay triangulation algorithm
