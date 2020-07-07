@@ -5,6 +5,8 @@ To use the scripts, structure your datasets into columns of sample ID (or patien
 
 
 See [the script](https://github.com/HannahhoHe/Data-Wrangling-Multidimensional-Image-Data/tree/master/DataCleaning) for data cleaning prior running the following scripts.
+
+Note: The scripts below should be used with the following order. 
 ### Analyze the DBSCAN clusters
 - Types of clusters 
 - Cells comprising the clusters 
