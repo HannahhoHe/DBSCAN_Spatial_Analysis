@@ -21,5 +21,5 @@ See [the script](https://github.com/HannahhoHe/Data-Wrangling-Multidimensional-I
 - Cells participating DBSCAN clustering
   - [by Types of clusters](https://github.com/HannahhoHe/Data-Wrangling-Multidimensional-Image-Data/blob/master/Cells%20participating%20DBSCAN%20clustering.ipynb)
   - [by Numbers of neighbors](https://github.com/HannahhoHe/Data-Wrangling-Multidimensional-Image-Data/blob/master/Cells%20participating%20DBSCAN%20clustering-Numbers%20of%20Neighbors.ipynb)
-  - [by Size of clusters]()
+  - [by Size of clusters](https://github.com/HannahhoHe/Data-Wrangling-Multidimensional-Image-Data/blob/master/Cells%20participating%20DBSCAN%20clustering-by%20heterocluster%20size.ipynb)
 - Other cells within the clusters (also see registration for consecutive specimen sections)  
