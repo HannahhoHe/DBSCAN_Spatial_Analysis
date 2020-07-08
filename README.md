@@ -17,7 +17,7 @@ See [the script](https://github.com/HannahhoHe/Data-Wrangling-Multidimensional-I
 # Merge the DBSCAN clusters with Delaunay neighbors  
  - [The scripts](https://github.com/HannahhoHe/Data-Wrangling-Multidimensional-Image-Data/blob/master/Combine%20DBSCAN%20and%20Delaunay.ipynb) (1) merge the results from the Delaunay algorithm with that from the DBSCAN clustering, (2) plot graphs showing the number of neighbors (of different type of cells) for cells in DBSCAN cluster, (3) perform statistical analysis (p-value) testing the null hypothesis for cells having different numbers of neighbors when involving in types of clusters, (4) plot the number of neighbors (of different type of cells) against the size of heterotypic cluster and from which, (5) perform linear regression based off it.         
 
-# Changes in cell function 
+# Changes of functional markers 
 - Cells participating DBSCAN clustering
   - [by Types of clusters](https://github.com/HannahhoHe/Data-Wrangling-Multidimensional-Image-Data/blob/master/Cells%20participating%20DBSCAN%20clustering.ipynb)
   - [by Numbers of neighbors](https://github.com/HannahhoHe/Data-Wrangling-Multidimensional-Image-Data/blob/master/Cells%20participating%20DBSCAN%20clustering-Numbers%20of%20Neighbors.ipynb)
