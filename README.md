@@ -11,13 +11,13 @@ See [the script](https://github.com/HannahhoHe/Data-Wrangling-Multidimensional-I
 - [Calculating the cluster size (and types of) in each specimen](https://github.com/HannahhoHe/Data-Wrangling-Multidimensional-Image-Data/blob/master/Cluster%20Size.ipynb). The cluster size is the total number of cells. 
 - [Portion (percent) of cells found in clusters](https://github.com/HannahhoHe/Data-Wrangling-Multidimensional-Image-Data/blob/master/Portion%20of%20cells%20found%20in%20the%20cluster.ipynb) 
   
-## Delaunay triangulation algorithm
+# Delaunay triangulation algorithm
   - [Run the Delaunay algorithm, plot a representative figure](https://github.com/HannahhoHe/Data-Wrangling-Multidimensional-Image-Data/blob/master/Neighborhood%20(Delaunay).ipynb)
   
-## Combine the outputs from DBSCAN cluster and Delaunay algorithm  
+# Combine the outputs from DBSCAN cluster and Delaunay algorithm  
  - The scripts [Combine DBSCAN and Delaunay.ipynb](https://github.com/HannahhoHe/Data-Wrangling-Multidimensional-Image-Data/blob/master/Combine%20DBSCAN%20and%20Delaunay.ipynb) (1) merge the results from the Delaunay algorithm with that from the DBSCAN clustering, (2) plot graphs showing the number of neighbors (of different type of cells) for cells in DBSCAN cluster, (3) perform statistical analysis (p-value) testing the null hypothesis for cells having different numbers of neighbors when involving in types of clusters, (4) plot the number of neighbors (of different type of cells) against the size of heterotypic cluster and from which, (5) perform linear regression based off it.         
 
-## Changes in cell function 
+# Changes in cell function 
 - Cells participating DBSCAN clustering
   - [by Types of clusters](https://github.com/HannahhoHe/Data-Wrangling-Multidimensional-Image-Data/blob/master/Cells%20participating%20DBSCAN%20clustering.ipynb)
   - [by Numbers of neighbors](https://github.com/HannahhoHe/Data-Wrangling-Multidimensional-Image-Data/blob/master/Cells%20participating%20DBSCAN%20clustering-Numbers%20of%20Neighbors.ipynb)
