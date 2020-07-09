@@ -26,3 +26,4 @@ See [the script](https://github.com/HannahhoHe/Data-Wrangling-Multidimensional-I
 
 # Cox Regression Analysis
 - [Cox Hazard Ratio, logrank, and Kaplan-Meier plots](): Feature engineering at a desired threshold, to convert data from regression to classification, is coded within.  
+- Use [ROC curve]() to get optimal cutoff. 
