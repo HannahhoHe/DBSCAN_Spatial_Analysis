@@ -25,4 +25,4 @@ See [the script](https://github.com/HannahhoHe/Data-Wrangling-Multidimensional-I
 - Other cells within the clusters (also see registration for consecutive specimen sections)  
 
 # Cox Regression Analysis
-- [ROC curve, Cox Hazard Ratio, logrank, and Kaplan-Meier plots](https://github.com/HannahhoHe/Data-Wrangling-Multidimensional-Image-Data/blob/master/Cox%20survival%20regression.ipynb): Feature engineering that converts features to classification by an optimal cutoff, determined by ROC curve, is coded within.
+- [ROC curve, Cox Hazard Ratio, logrank, and Kaplan-Meier plots](https://github.com/HannahhoHe/Data-Wrangling-Multidimensional-Image-Data/blob/master/Cox%20survival%20regression.ipynb): feature engineering that converts features to classification by an optimal cutoff, determined by ROC curve, is included.
