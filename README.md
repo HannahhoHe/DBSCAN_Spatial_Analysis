@@ -25,6 +25,8 @@ See [the script](https://github.com/HannahhoHe/Data-Wrangling-Multidimensional-I
 - Other cells within the clusters (also see registration for consecutive specimen sections)  
   - [Register two whole-slide cartesian data](https://github.com/HannahhoHe/DataWrangling-ImageData-Clusters/blob/master/WSI%20Registration.ipynb)
   - [Finding if cells are within a cluster](https://github.com/HannahhoHe/DataWrangling-ImageData-Clusters/blob/master/Find_prolifCD8_withinCluster.ipynb)
+  - [Calculate cell proliferation rate](https://github.com/HannahhoHe/DataWrangling-ImageData-Clusters/blob/master/Calculating%20CD8%20proliferation%20in%20different%20clusters.ipynb)
+  
 
 
 # Cox Regression Analysis
