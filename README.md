@@ -24,6 +24,7 @@ See [the script](https://github.com/HannahhoHe/Data-Wrangling-Multidimensional-I
   - [by Size of clusters](https://github.com/HannahhoHe/Data-Wrangling-Multidimensional-Image-Data/blob/master/Cells%20participating%20DBSCAN%20clustering-by%20heterocluster%20size.ipynb)
 - Other cells within the clusters (also see registration for consecutive specimen sections)  
   - [Register two whole-slide cartesian data](https://github.com/HannahhoHe/DataWrangling-ImageData-Clusters/blob/master/WSI%20Registration.ipynb)
+  - [Finding if cells are within a cluster](https://github.com/HannahhoHe/DataWrangling-ImageData-Clusters/blob/master/Find_prolifCD8_withinCluster.ipynb)
 
 
 # Cox Regression Analysis
